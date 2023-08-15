@@ -1,0 +1,2 @@
+# SimpleDuelGame
+Basic game
